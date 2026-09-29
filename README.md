@@ -27,7 +27,7 @@ This is a simple Python project I made for my CSE1021 course. It is a command li
 
 2. Download/clone this repository:
    ```bash
-   git clone https://github.com/raghuraj2006/Project.git
+   https://github.com/raghuraj2006/Project
    cd Project
    ```
 
